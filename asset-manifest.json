@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cinepick-movie-selector/static/css/main.33e3a4b5.chunk.css",
+    "main.js": "/cinepick-movie-selector/static/js/main.73d67300.chunk.js",
+    "main.js.map": "/cinepick-movie-selector/static/js/main.73d67300.chunk.js.map",
+    "runtime-main.js": "/cinepick-movie-selector/static/js/runtime-main.bb029939.js",
+    "runtime-main.js.map": "/cinepick-movie-selector/static/js/runtime-main.bb029939.js.map",
+    "static/js/2.f748a96b.chunk.js": "/cinepick-movie-selector/static/js/2.f748a96b.chunk.js",
+    "static/js/2.f748a96b.chunk.js.map": "/cinepick-movie-selector/static/js/2.f748a96b.chunk.js.map",
+    "static/js/3.e6537880.chunk.js": "/cinepick-movie-selector/static/js/3.e6537880.chunk.js",
+    "static/js/3.e6537880.chunk.js.map": "/cinepick-movie-selector/static/js/3.e6537880.chunk.js.map",
+    "index.html": "/cinepick-movie-selector/index.html",
+    "static/css/main.33e3a4b5.chunk.css.map": "/cinepick-movie-selector/static/css/main.33e3a4b5.chunk.css.map",
+    "static/js/2.f748a96b.chunk.js.LICENSE.txt": "/cinepick-movie-selector/static/js/2.f748a96b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/cinepick-movie-selector/static/media/wave.1c8e054e.png",
+    "static/media/cine.2ce7d006.png": "/cinepick-movie-selector/static/media/cine.2ce7d006.png",
+    "static/media/logo-white.be7174b3.png": "/cinepick-movie-selector/static/media/logo-white.be7174b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb029939.js",
+    "static/js/2.f748a96b.chunk.js",
+    "static/css/main.33e3a4b5.chunk.css",
+    "static/js/main.73d67300.chunk.js"
+  ]
+}
